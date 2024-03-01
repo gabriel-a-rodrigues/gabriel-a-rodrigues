@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+I'm a computer science undergraduate student at the University of Campinas, in Brazil. Coding is one of my favourite activities and I'm interested in all things AI.
+
+I'm currently working on a research project on inner alignment. I've been studying reinforcement learning, deep learning and AI safety.
 
 <!--
 **gabriel-a-rodrigues/gabriel-a-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
